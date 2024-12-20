@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WingsAir_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e74999e984a7249476b6ebf584fb586bdeb3b958")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1593e44ab2bcdbb78ce7d73021e2f09f411d59c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("WingsAir_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WingsAir_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

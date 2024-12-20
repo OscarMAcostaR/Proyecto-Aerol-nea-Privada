@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WingsAir_API", "WingsAir_API.csproj", "{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aeropuerto_WingsAir_DTO", "..\Aeropuerto_WingsAir_DTO\Aeropuerto_WingsAir_DTO.csproj", "{9FEA1B97-5103-43AC-BC09-3B90BB3803EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FEA1B97-5103-43AC-BC09-3B90BB3803EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEA1B97-5103-43AC-BC09-3B90BB3803EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEA1B97-5103-43AC-BC09-3B90BB3803EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEA1B97-5103-43AC-BC09-3B90BB3803EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
