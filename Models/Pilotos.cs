@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace WingsAir_API.Models;
 
-[Index("codigo_piloto", Name = "UQ__Pilotos__F01BC1A4917AA072", IsUnique = true)]
+[Microsoft.EntityFrameworkCore.Index("codigo_piloto", Name = "UQ__Pilotos__F01BC1A4917AA072", IsUnique = true)]
 public partial class Pilotos
 {
     [Key]

@@ -65,6 +65,7 @@ namespace WingsAir_API.Services
             {
                 //procedo a mapear el objeto del modelo original a un modelo DTO
                 Vuelos_DTO _salida = DinamycMapper.Map<Vuelos, Vuelos_DTO>(_vuelo);
+                _salida.fecha_hora = (DateTime)_vuelo.fecha_hora;
                 return _salida;
             }
             catch (Exception ex)
@@ -88,6 +89,7 @@ namespace WingsAir_API.Services
             foreach (var vuelo in _list)
             {
                 Vuelos_DTO x = DinamycMapper.Map<Vuelos, Vuelos_DTO>(vuelo);
+                x.fecha_hora = (DateTime)vuelo.fecha_hora;
                 lista_salida.Add(x);
             }
             return lista_salida;
@@ -108,6 +110,7 @@ namespace WingsAir_API.Services
             foreach (var vuelo in _list)
             {
                 Vuelos_DTO x = DinamycMapper.Map<Vuelos, Vuelos_DTO>(vuelo);
+                x.fecha_hora = (DateTime)vuelo.fecha_hora;
                 lista_salida.Add(x);
             }
             return lista_salida;
@@ -119,10 +122,30 @@ namespace WingsAir_API.Services
             {
                 //Creo un objeto del modelo original
                 Vuelos _vuelo = new Vuelos();
+                //El fomrato del código de un vuelo es
+                //(3 dígitos del orignen + 3 dígitos del Detino - Hora en formato Militar)
+                string origen = (from ae in _context.Aeropuertos where ae.id_aeropuerto == vuelo.id_origen select ae.estado).FirstOrDefault();
+                string destino = (from ae in _context.Aeropuertos where ae.id_aeropuerto == vuelo.id_destino select ae.estado).FirstOrDefault();
+
+                // Formatear la hora del vuelo en formato militar
+                string horaVuelo = vuelo.fecha_hora.ToString("HHmm");
+                // Asegurarnos de obtener los primeros 3 caracteres (en mayúsculas para consistencia)
+                string codigoOrigen = origen.Substring(0, 3).ToUpper();
+                string codigoDestino = destino.Substring(0, 3).ToUpper();
+                // Combinar las partes para formar el código del vuelo
+                string codigoVuelo = $"{codigoOrigen}{codigoDestino}-{horaVuelo}";
+                //asigno el valor del c+odigo generado
+                vuelo.codigo_vuelo = codigoVuelo;
+                //asigno por default el estatus
+                vuelo.estatus = enum_vuelos.waiting.ToString();
+
+
                 //mapeo el objeto a un objeto original
                 _vuelo = DinamycMapper.Map<Vuelos_DTO, Vuelos>(vuelo);
                 try
                 {
+                    //asigno la fecha_hora de forma manual
+                    _vuelo.fecha_hora = vuelo.fecha_hora;
                     //lo agrego al contexto
                     _context.Vuelos.Add(_vuelo);
                     //impacto la BD
@@ -164,13 +187,15 @@ namespace WingsAir_API.Services
                 _vuelo = DinamycMapper.Map<Vuelos_DTO, Vuelos>(vuelo);
                 try
                 {
+                    //asigno la fecha_hora de forma manual
+                    _vuelo.fecha_hora = vuelo.fecha_hora;
                     //modifico la entrada del contexto
                     _context.Entry(_vuelo).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
                     //impacto la BD
                     _context.SaveChanges();
 
                     //respondo
-                    return "Vuelo insertado con éxito";
+                    return "Vuelo actualizado con éxito";
                 }
                 catch (DbEntityValidationException ex)
                 {

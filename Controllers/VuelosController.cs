@@ -18,8 +18,8 @@ namespace WingsAir_API.Controllers
         //inicializo mis variables
         public VuelosController(Aeropuerto_WingsAirContext context, IVuelos service)
         {
-            _context = context;
-            _service = service;
+            this._context = context;
+            this._service = service;
         }
 
         //GET
@@ -56,7 +56,7 @@ namespace WingsAir_API.Controllers
             return Ok(new { respuesta });
         }
         //PUT
-        [HttpPost]
+        [HttpPut]
         [Route("updateVuelo")]
         public IActionResult updateVuelo([FromBody] Vuelos_DTO vuelo)
         {

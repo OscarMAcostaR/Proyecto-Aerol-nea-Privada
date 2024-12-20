@@ -9,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 //inyecto el contexto creado con EF al constructor de la aplicación para que se conecte
-builder.Services.AddDbContext<Aeropuerto_WingsAirContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("sql_connection_remote"), sqlServerOptionsAction: sqloption =>
+builder.Services.AddDbContext<Aeropuerto_WingsAirContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("SQL_Connection_remote"), sqlServerOptionsAction: sqloption =>
 {
     sqloption.EnableRetryOnFailure(
         maxRetryCount: 10,

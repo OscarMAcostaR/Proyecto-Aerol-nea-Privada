@@ -3,8 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\wingsair_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:wingsair_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\services\\vuelosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:services\\vuelosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\controllers\\vueloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:controllers\\vueloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\services\\enum_vuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:services\\enum_vuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEA1B97-5103-43AC-BC09-3B90BB3803EB}|..\\Aeropuerto_WingsAir_DTO\\Aeropuerto_WingsAir_DTO.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\aeropuerto_wingsair_dto\\vuelos_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\models\\vuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:models\\vuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +30,23 @@
       "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\controllers\\vueloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:controllers\\vueloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\models\\pilotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:models\\pilotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\dependency\\ivuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:dependency\\ivuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\models\\aviones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:models\\aviones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\services\\vuelosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:services\\vuelosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\models\\aeropuertos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:models\\aeropuertos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\services\\enum_vuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:services\\enum_vuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FEA1B97-5103-43AC-BC09-3B90BB3803EB}|..\\Aeropuerto_WingsAir_DTO\\Aeropuerto_WingsAir_DTO.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\aeropuerto_wingsair_dto\\aeropuertos_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\services\\dinamycmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:services\\dinamycmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\models\\aeropuerto_wingsaircontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:models\\aeropuerto_wingsaircontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +56,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WingsAir_API",
-              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\WingsAir_API.csproj",
-              "RelativeDocumentMoniker": "WingsAir_API.csproj",
-              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\WingsAir_API.csproj",
-              "RelativeToolTip": "WingsAir_API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-20T15:24:44.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwB4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T15:19:28.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-20T15:19:01.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VuelosController.cs",
-              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Controllers\\VuelosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VuelosController.cs",
-              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Controllers\\VuelosController.cs",
-              "RelativeToolTip": "Controllers\\VuelosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T15:09:21.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "enum_vuelos.cs",
               "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Services\\enum_vuelos.cs",
               "RelativeDocumentMoniker": "Services\\enum_vuelos.cs",
               "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Services\\enum_vuelos.cs",
               "RelativeToolTip": "Services\\enum_vuelos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T14:50:03.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DinamycMapper.cs",
-              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Services\\DinamycMapper.cs",
-              "RelativeDocumentMoniker": "Services\\DinamycMapper.cs",
-              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Services\\DinamycMapper.cs",
-              "RelativeToolTip": "Services\\DinamycMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T14:44:47.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VuelosService.cs",
-              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Services\\VuelosService.cs",
-              "RelativeDocumentMoniker": "Services\\VuelosService.cs",
-              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Services\\VuelosService.cs",
-              "RelativeToolTip": "Services\\VuelosService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T14:40:35.515Z",
+              "WhenOpened": "2024-12-20T16:14:43.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IVuelos.cs",
-              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Dependency\\IVuelos.cs",
-              "RelativeDocumentMoniker": "Dependency\\IVuelos.cs",
-              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Dependency\\IVuelos.cs",
-              "RelativeToolTip": "Dependency\\IVuelos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Title": "Vuelos.cs",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Models\\Vuelos.cs",
+              "RelativeDocumentMoniker": "Models\\Vuelos.cs",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Models\\Vuelos.cs",
+              "RelativeToolTip": "Models\\Vuelos.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T14:38:19.549Z",
+              "WhenOpened": "2024-12-20T16:03:52.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pilotos.cs",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Models\\Pilotos.cs",
+              "RelativeDocumentMoniker": "Models\\Pilotos.cs",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Models\\Pilotos.cs",
+              "RelativeToolTip": "Models\\Pilotos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:03:48.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aviones.cs",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Models\\Aviones.cs",
+              "RelativeDocumentMoniker": "Models\\Aviones.cs",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Models\\Aviones.cs",
+              "RelativeToolTip": "Models\\Aviones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:03:26.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Aeropuertos_DTO.cs",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Aeropuerto_WingsAir_DTO\\Aeropuertos_DTO.cs",
+              "RelativeDocumentMoniker": "..\\Aeropuerto_WingsAir_DTO\\Aeropuertos_DTO.cs",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Aeropuerto_WingsAir_DTO\\Aeropuertos_DTO.cs",
+              "RelativeToolTip": "..\\Aeropuerto_WingsAir_DTO\\Aeropuertos_DTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:03:09.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Aeropuerto_WingsAirContext.cs",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Models\\Aeropuerto_WingsAirContext.cs",
+              "RelativeDocumentMoniker": "Models\\Aeropuerto_WingsAirContext.cs",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Models\\Aeropuerto_WingsAirContext.cs",
+              "RelativeToolTip": "Models\\Aeropuerto_WingsAirContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:03:02.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Aeropuertos.cs",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Models\\Aeropuertos.cs",
+              "RelativeDocumentMoniker": "Models\\Aeropuertos.cs",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Models\\Aeropuertos.cs",
+              "RelativeToolTip": "Models\\Aeropuertos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:53:57.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vuelos_DTO.cs",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Aeropuerto_WingsAir_DTO\\Vuelos_DTO.cs",
+              "RelativeDocumentMoniker": "..\\Aeropuerto_WingsAir_DTO\\Vuelos_DTO.cs",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Aeropuerto_WingsAir_DTO\\Vuelos_DTO.cs",
+              "RelativeToolTip": "..\\Aeropuerto_WingsAir_DTO\\Vuelos_DTO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:58:28.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VuelosService.cs",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Services\\VuelosService.cs",
+              "RelativeDocumentMoniker": "Services\\VuelosService.cs",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Services\\VuelosService.cs",
+              "RelativeToolTip": "Services\\VuelosService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwEMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:52:01.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VuelosController.cs",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Controllers\\VuelosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VuelosController.cs",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Controllers\\VuelosController.cs",
+              "RelativeToolTip": "Controllers\\VuelosController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:51:58.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T16:05:15.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:05:41.488Z",
               "EditorCaption": ""
             }
           ]
