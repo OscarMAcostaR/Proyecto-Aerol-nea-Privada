@@ -4,6 +4,22 @@
     "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\WingsAir_API.csproj": {}
   },
   "projects": {
+    "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Aeropuerto_WingsAir_DTO\\Aeropuerto_WingsAir_DTO.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Aeropuerto_WingsAir_DTO\\Aeropuerto_WingsAir_DTO.csproj",
+        "projectName": "Aeropuerto_WingsAir_DTO",
+        "projectPath": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Aeropuerto_WingsAir_DTO\\Aeropuerto_WingsAir_DTO.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
     "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\WingsAir_API.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -32,7 +48,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Aeropuerto_WingsAir_DTO\\Aeropuerto_WingsAir_DTO.csproj": {
+                "projectPath": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Aeropuerto_WingsAir_DTO\\Aeropuerto_WingsAir_DTO.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

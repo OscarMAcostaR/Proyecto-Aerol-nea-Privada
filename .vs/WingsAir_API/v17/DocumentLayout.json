@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\WingsAir_API\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\services\\vuelosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:services\\vuelosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\dependency\\ivuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:dependency\\ivuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VuelosService.cs",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Services\\VuelosService.cs",
+              "RelativeDocumentMoniker": "Services\\VuelosService.cs",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Services\\VuelosService.cs",
+              "RelativeToolTip": "Services\\VuelosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:40:35.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVuelos.cs",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Dependency\\IVuelos.cs",
+              "RelativeDocumentMoniker": "Dependency\\IVuelos.cs",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Dependency\\IVuelos.cs",
+              "RelativeToolTip": "Dependency\\IVuelos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:38:19.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
