@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WingsAir_API", "WingsAir_API.csproj", "{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aeropuerto_WingsAir_DTO", "..\Aeropuerto_WingsAir_DTO\Aeropuerto_WingsAir_DTO.csproj", "{9FEA1B97-5103-43AC-BC09-3B90BB3803EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aeropuerto_WingsAir_DTO", "Aeropuerto_WingsAir_DTO\Aeropuerto_WingsAir_DTO.csproj", "{9FEA1B97-5103-43AC-BC09-3B90BB3803EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

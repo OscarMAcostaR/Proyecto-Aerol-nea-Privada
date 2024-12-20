@@ -1221,15 +1221,6 @@
             "rid": "win"
           }
         }
-      },
-      "Aeropuerto_WingsAir_DTO/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Aeropuerto_WingsAir_DTO.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Aeropuerto_WingsAir_DTO.dll": {}
-        }
       }
     }
   },
@@ -3671,16 +3662,10 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "Aeropuerto_WingsAir_DTO/1.0.0": {
-      "type": "project",
-      "path": "../Aeropuerto_WingsAir_DTO/Aeropuerto_WingsAir_DTO.csproj",
-      "msbuildProject": "../Aeropuerto_WingsAir_DTO/Aeropuerto_WingsAir_DTO.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Aeropuerto_WingsAir_DTO >= 1.0.0",
       "EntityFramework >= 6.5.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.11",
       "Swashbuckle.AspNetCore >= 6.6.2"
@@ -3718,11 +3703,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Aeropuerto_WingsAir_DTO\\Aeropuerto_WingsAir_DTO.csproj": {
-              "projectPath": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Aeropuerto_WingsAir_DTO\\Aeropuerto_WingsAir_DTO.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
