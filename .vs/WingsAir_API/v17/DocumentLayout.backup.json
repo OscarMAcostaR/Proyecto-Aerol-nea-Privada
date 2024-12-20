@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|c:\\users\\trpad07\\source\\repos\\proyecto final gen 13\\proyecto-aerol-nea-privada\\controllers\\vueloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8570EAD-9B38-4D08-9372-F1CE246DAAAF}|WingsAir_API.csproj|solutionrelative:controllers\\vueloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,19 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:19:28.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T15:19:01.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "VuelosController.cs",
               "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Controllers\\VuelosController.cs",
               "RelativeDocumentMoniker": "Controllers\\VuelosController.cs",
               "ToolTip": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Controllers\\VuelosController.cs",
               "RelativeToolTip": "Controllers\\VuelosController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAwD4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T15:09:21.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "enum_vuelos.cs",
               "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Services\\enum_vuelos.cs",
               "RelativeDocumentMoniker": "Services\\enum_vuelos.cs",
@@ -60,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DinamycMapper.cs",
               "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Services\\DinamycMapper.cs",
               "RelativeDocumentMoniker": "Services\\DinamycMapper.cs",
@@ -73,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "VuelosService.cs",
               "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Services\\VuelosService.cs",
               "RelativeDocumentMoniker": "Services\\VuelosService.cs",
@@ -86,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IVuelos.cs",
               "DocumentMoniker": "C:\\Users\\TRPAD07\\source\\repos\\Proyecto Final gen 13\\Proyecto-Aerol-nea-Privada\\Dependency\\IVuelos.cs",
               "RelativeDocumentMoniker": "Dependency\\IVuelos.cs",
